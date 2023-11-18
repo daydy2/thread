@@ -60,3 +60,5 @@ android/app/build
 
 # Ignore local.properties file
 local.properties
+
+*.keystore
